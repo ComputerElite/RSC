@@ -1,0 +1,14 @@
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\bin\Release\RSC_Update.exe.config
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\bin\Release\RSC_Update.exe
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\bin\Release\RSC_Update.pdb
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\MainWindow.g.cs
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\App.g.cs
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\RSC_Update_MarkupCompile.cache
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\RSC_Update_MarkupCompile.lref
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\MainWindow.baml
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\RSC_Update.g.resources
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\Runtime_Song_Converter_Update.Properties.Resources.resources
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\Runtime Song Converter Update.csproj.GenerateResource.cache
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\Runtime Song Converter Update.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\RSC_Update.exe
+D:\Visual Studio\Runtime Song Converter Update\Runtime Song Converter Update\obj\Release\RSC_Update.pdb
